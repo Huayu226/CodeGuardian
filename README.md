@@ -58,10 +58,10 @@ podman ps
 
 安裝依賴套件：
 
-Ba install
-按下
+install
+
 ```
-F5 鍵（或點擊左側「執行與偵錯」 -> 選擇 "VS Code Extension Development"）。
+按下F5 鍵（或點擊左側「執行與偵錯」 -> 選擇 "VS Code Extension Development"）。
 
 這時會跳出一個新的 VS Code 視窗 [Extension Development Host]。
 
