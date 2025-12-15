@@ -58,7 +58,7 @@ podman ps
 
 安裝依賴套件：
 
-install
+npm install
 
 ```
 按下F5 鍵（或點擊左側「執行與偵錯」 -> 選擇 "VS Code Extension Development"）。
