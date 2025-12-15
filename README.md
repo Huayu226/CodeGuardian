@@ -38,9 +38,8 @@ Git
 步驟 2：啟動後端伺服器 (Backend)
 開啟終端機 (Terminal)，進入專案目錄，執行以下指令：
 
-Bash
-
-# 1. 啟動 Podman 虛擬機 (若尚未啟動)
+```text
+ 1. 啟動 Podman 虛擬機 (若尚未啟動)
 podman machine start
 
 # 2. 建置映像檔 (Image)
@@ -59,10 +58,10 @@ podman ps
 
 安裝依賴套件：
 
-Bash
-
-npm install
-按下 F5 鍵（或點擊左側「執行與偵錯」 -> 選擇 "VS Code Extension Development"）。
+Ba install
+按下
+```
+F5 鍵（或點擊左側「執行與偵錯」 -> 選擇 "VS Code Extension Development"）。
 
 這時會跳出一個新的 VS Code 視窗 [Extension Development Host]。
 
