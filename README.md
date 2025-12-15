@@ -81,7 +81,7 @@ CodeGuardian: 資安弱點掃描
 點擊功能後，右下角會出現進度條，分析完成後將自動開啟 Markdown 報告視窗。
 
 📂 專案結構
-Plaintext
+```text
 
 CodeGuardian/
 ├── src/                # VS Code Extension 原始碼 (TypeScript)
@@ -91,6 +91,8 @@ CodeGuardian/
 ├── Containerfile       # 容器建置腳本 (Dockerfile)
 ├── package.json        # 專案設定檔
 └── README.md           # 說明文件
+```
+
 ⚠️ 常見問題排除
 錯誤：target machine actively refused it
 
